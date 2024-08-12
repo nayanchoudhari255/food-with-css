@@ -1,0 +1,33 @@
+
+.img{
+    height: 20vh;
+    width: 20vw;
+}
+
+table{
+    text-align: center;
+    width: 70%;
+ 
+}
+.th{
+    background-color: darkcyan;
+}
+tr{
+  background-color: antiquewhite;
+}
+li{
+   
+
+    font-size: 4vh;
+    margin-top: 10px;
+   
+}
+.h1{
+margin-left: 23px;
+}
+.li-1{
+    background-color: purple;
+}
+.li-2{
+    background-color: tomato;
+}
